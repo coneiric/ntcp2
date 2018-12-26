@@ -1,0 +1,15 @@
+[submodule "noise-c"]
+	path = noise-c
+	url = https://github.com/rweather/noise-c.git
+[submodule "deps/noise-c"]
+	path = deps/noise-c
+	url = https://github.com/rweather/noise-c.git
+[submodule "deps/catch2"]
+	path = deps/catch2
+	url = https://github.com/catchorg/catch2.git
+[submodule "tests/unit_tests/deps/catch2"]
+	path = tests/unit_tests/deps/catch2
+	url = https://github.com/catchorg/catch2.git
+[submodule "deps/cryptopp"]
+	path = deps/cryptopp
+	url = https://github.com/weidai11/cryptopp.git
